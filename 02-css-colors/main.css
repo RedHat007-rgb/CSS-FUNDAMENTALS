@@ -1,0 +1,20 @@
+body{
+    background: #f1f5f9;
+}
+ div h3{
+    color:#645cff;
+    
+}
+
+.container{
+    
+    background: #fff;
+}
+
+.special-container{
+    background: rgba(0,0,0,0.9);
+}
+
+p{
+    color:#64748b;
+}
